@@ -1,16 +1,20 @@
-# Global-superstore-project-1
+# Global-Superstore-Project-1
 
 As a dedicated data analyst, I am eager to assist Global Superstore in analyzing and extracting valuable insights from the Superstore dataset. The goal is to provide management with the necessary information to make informed decisions, ultimately enhancing overall performance and profitability.
 
 ![](global_superstore_logo.png)
+---
 
-# Introduction
+## Introduction
 
-In this project, I will be diving into the financial and operational data of Global Superstore for the year 2014. Using a combination of data exploration and analytical methods, the goal is to reveal valuable insights and patterns within the dataset. The inquiries cover diverse areas such as country-specific profitability, shipping expenses, subcategories of products, customer tendencies, and geographical trends. The findings from this analysis will provide a comprehensive view of the company's performance, offering insights that can guide informed decisions for improving operations and boosting profitability.
+In this project, I will be diving into the financial and operational data of **Global Superstore** for the year 2014.
+Using a combination of data exploration and analytical methods, the goal is to reveal valuable insights and patterns within the dataset. The inquiries cover diverse areas such as country-specific profitability, shipping expenses, subcategories of products, customer tendencies, and geographical trends. The findings from this analysis will provide a comprehensive view of the company's performance, offering insights that can guide informed decisions for improving operations and boosting profitability.
 
-_Disclaimer: The datasets and reports presented herein are purely illustrative and do not reflect the data of any specific institution or organization. They are simulated datasets created solely for the purpose of showcasing the capabilities of Microsoft Power BI.
+**_Disclaimer_**: _The datasets and reports presented herein are purely illustrative and do not reflect the data of any specific institution or organization. They are simulated datasets created solely for the purpose of showcasing the capabilities of Microsoft Power BI._
 
-# Problem statement
+---
+
+## Problem Statement
 
 * Question 1
 a) What are the three countries that generated the highest total profit for Global Superstore in 2014?
@@ -41,36 +45,42 @@ a) Which product subcategory has the highest average profit in Australia?
 
 * Question 7
 a) Who are the most valuable customers, and what do they purchase?
+---
 
 
-# Data Sourcing
-
-# The datasets consist of three sheets:
+## Data Sourcing
+The datasets consist of three sheets:
 
 - Orders with 51,290 rows and 24 columns
 - People with 13 rows and 2 columns
 - Returns with 1173 and 3 columns
+---
 
 
-# Skills and Concepts Demonstrated
+## Skills and Concepts Demonstrated:
 ![](Power_BI_image.jpg)
 
+The following PowerBI features were incorporated:
 * Power Query
 * Data Modeling
 * Data Cleaning
+* Quick Measures
+* Page navigation
 * Data Visualization
 * DAX (Data Analysis Expression)
+* Buttons and Toolips
+---
 
+## Modelling:
 
-# Modelling
-
-# I employed a star schema for my data modeling approach
+I employed a star schema for my data modeling approach
 
 ![](Modelling_page.png)
+---
 
-# visualization
+## Visualizations:
 
-# The dashboard includes:
+The dashboard includes:
 
 - Home Page 
   ![](cover_page.jpg)
@@ -83,8 +93,9 @@ a) Who are the most valuable customers, and what do they purchase?
 
   -  Sub-Categories 
      ![](visual_3.jpg)
+---
 
- # Recomnedations
+ ## Recommendations:
  
    - Focus on expanding market presence in the United States, India, and China, as these countries generate the highest total profit also tailor marketing strategies and product offerings to cater to the preferences of customers in these three countries
    
@@ -99,23 +110,25 @@ a) Who are the most valuable customers, and what do they purchase?
   - Capitalize on the high profitability of Appliances ($139.01) in Australia by expanding product offerings, enhancing marketing efforts, and exploring partnerships with Australian furniture retailer
    
    - Implement a customer relationship management (CRM) system to track customer purchase history, preferences, and demographics, and also utilize customer data to identify and target high-value customers with personalized marketing campaigns and exclusive offers.
+---
 
-
-# Additional Information
+## Additional Information:
 
    - Enhance the e-commerce platform and user experience to improve customer satisfaction and conversion rates.
    
    - Regularly monitor and analyze market trends, competitor activities, and customer feedback to stay ahead of the curve and make timely adjustments to strategies.
+---
 
 
-# Conclusion
+## Conclusion:
 
 The analysis and recommendations provided in this report have addressed various aspects of Global Superstore's business, including customer profitability, product performance, shipping costs, and marketing strategies. By implementing the suggested recommendations, Global Superstore can optimize its operations, strengthen its market position, and achieve sustainable growth in the competitive e-commerce landscape.
-  
+
 As Global Superstore continues to grow and evolve, data analytics will remain a crucial tool for driving informed decision-making and achieving strategic objectives. By continuously gathering, analyzing, and interpreting data, Global Superstore can gain a deeper understanding of its customers, market trends, and competitive dynamics, enabling it to navigate challenges, seize opportunities, and establish itself as a leader in the global online retail industry.
 
+---
 
-# Thank You
+## Thank You
   ![](Thank_you.jpeg)
 
-# You can contact me via LinkedIn [here](linkedin.com/in/ruth-omoizirein)
+## You can contact me via LinkedIn [here](linkedin.com/in/ruth-omoizirein)
