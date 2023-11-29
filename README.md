@@ -128,7 +128,7 @@ As Global Superstore continues to grow and evolve, data analytics will remain a 
 
 ---
 
-## Thank You
+## Thank You 😄
   ![](Thank_you.jpeg)
 
 ## You can contact me via LinkedIn [here](linkedin.com/in/ruth-omoizirein)
