@@ -1,11 +1,11 @@
-# Global-Superstore-Project-1
+# Global-Superstore-Project-1 🏪
 
 As a dedicated data analyst, I am eager to assist Global Superstore in analyzing and extracting valuable insights from the Superstore dataset. The goal is to provide management with the necessary information to make informed decisions, ultimately enhancing overall performance and profitability.
 
 ![](global_superstore_logo.png)
 ---
 
-## Introduction
+## Introduction 👋
 
 In this project, I will be diving into the financial and operational data of **Global Superstore** for the year 2014.
 Using a combination of data exploration and analytical methods, the goal is to reveal valuable insights and patterns within the dataset. The inquiries cover diverse areas such as country-specific profitability, shipping expenses, subcategories of products, customer tendencies, and geographical trends. The findings from this analysis will provide a comprehensive view of the company's performance, offering insights that can guide informed decisions for improving operations and boosting profitability.
@@ -14,7 +14,7 @@ Using a combination of data exploration and analytical methods, the goal is to r
 
 ---
 
-## Problem Statement
+## Problem Statement ❓
 
 * Question 1
 a) What are the three countries that generated the highest total profit for Global Superstore in 2014?
@@ -48,7 +48,7 @@ a) Who are the most valuable customers, and what do they purchase?
 ---
 
 
-## Data Sourcing
+## Data Sourcing ℹ️
 The datasets consist of three sheets:
 
 - Orders with 51,290 rows and 24 columns
@@ -57,7 +57,7 @@ The datasets consist of three sheets:
 ---
 
 
-## Skills and Concepts Demonstrated:
+## Skills and Concepts Demonstrated 📋
 ![](Power_BI_image.jpg)
 
 The following PowerBI features were incorporated:
@@ -71,14 +71,14 @@ The following PowerBI features were incorporated:
 * Buttons and Toolips
 ---
 
-## Modelling:
+## Modelling ⭐
 
 I employed a star schema for my data modeling approach
 
 ![](Modelling_page.png)
 ---
 
-## Visualizations:
+## Visualizations 📈
 
 The dashboard includes:
 
@@ -95,7 +95,7 @@ The dashboard includes:
      ![](visual_3.jpg)
 ---
 
- ## Recommendations:
+ ## Recommendations ✔️
  
    - Focus on expanding market presence in the United States, India, and China, as these countries generate the highest total profit also tailor marketing strategies and product offerings to cater to the preferences of customers in these three countries
    
@@ -112,7 +112,7 @@ The dashboard includes:
    - Implement a customer relationship management (CRM) system to track customer purchase history, preferences, and demographics, and also utilize customer data to identify and target high-value customers with personalized marketing campaigns and exclusive offers.
 ---
 
-## Additional Information:
+## Additional Information ℹ️
 
    - Enhance the e-commerce platform and user experience to improve customer satisfaction and conversion rates.
    
@@ -120,7 +120,7 @@ The dashboard includes:
 ---
 
 
-## Conclusion:
+## Conclusion 👇
 
 The analysis and recommendations provided in this report have addressed various aspects of Global Superstore's business, including customer profitability, product performance, shipping costs, and marketing strategies. By implementing the suggested recommendations, Global Superstore can optimize its operations, strengthen its market position, and achieve sustainable growth in the competitive e-commerce landscape.
 
